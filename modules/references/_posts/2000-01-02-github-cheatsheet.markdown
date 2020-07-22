@@ -3,9 +3,9 @@ title: GitHub Cheatsheet
 ---
 
 # Github cheatsheet
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
+
+$$\frac{\sigma}{\sqrt{n}}$$
+
 This cheatsheet explains how to do various things in GitHub. If you're looking for explanations of what some of the terms we use mean, have a look at the [GitHub Glossary](https://help.github.com/articles/github-glossary)
 
 ## How to fork a repository
