@@ -1,5 +1,5 @@
 ---
-title: Chapter 1
+title: 1. Some set theory
 excerpt: "Chapter 1: Some set theory"
 published: true
 ---
@@ -7,7 +7,6 @@ published: true
 # Chapter 1: Some set theory
 
 [Complete lecture notes]({% link /modules/resources/notes/mth427_notes_1.pdf %})
-[Blank lecture notes]
 
 *Learners go farther when they learn together.*
 
