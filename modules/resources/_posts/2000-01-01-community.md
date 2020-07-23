@@ -6,4 +6,4 @@ published: true
 
 # Chapter 1: Some set theory
 
-[Complete lecture notes]({% link /assets/notes/mth427_notes_1.pdf %})
+[Complete lecture notes]({{site.baseurl}}/assets/notes/mth427_notes_1.pdf)
