@@ -4,19 +4,19 @@ published: true
 ---
 
 
-# MTH 427/527 Introduction to Topology I
+# Course Information
 
 
 ### Class times
 
-**Lectures:**  Mon Wed 2:30PM - 3:50PM online
+**Lectures:**  Mon Wed 2:30PM - 3:50PM online  
 **Recitations:** Wed 5:20-6:10 online
 
 
 ### Instructor
 
 Bernard Badzioch  
-**E-mail:** `badzioch@buffalo.edu <badzioch@buffalo.edu>`  
+**E-mail:** [badzioch@buffalo.edu](badzioch@buffalo.edu)  
 **Office Hours:** TBA
 
 
