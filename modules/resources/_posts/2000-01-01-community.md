@@ -13,13 +13,39 @@ published: true
 
 ## Videos
 
-#### Part 1 (p. 3-8)
+#### Part 1 (pages 3-8)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6yusB-muawU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Part 1 (p. 9-15)
+{% include youtube.html id='6yusB-muawU' %}
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o8RkiSMlcuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/6yusB-muawU"
+frameborder="0"
+allow="accelerometer;
+autoplay;
+encrypted-media;
+gyroscope;
+picture-in-picture"
+allowfullscreen>
+</iframe>
+
+#### Part 1 (pages 9-15)
+https://www.youtube-nocookie.com/embed/o8RkiSMlcuc
+
+<iframe
+width="560"
+height="315"
+src="https://www.youtube-nocookie.com/embed/o8RkiSMlcuc"
+frameborder="0"
+allow="accelerometer;
+autoplay;
+encrypted-media;
+gyroscope;
+picture-in-picture"
+allowfullscreen>
+</iframe>
 
 ### Page links
 
