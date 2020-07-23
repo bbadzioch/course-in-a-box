@@ -1,0 +1,111 @@
+\documentclass[11pt]{article}
+
+\usepackage{amsmath,amssymb,amsthm,textcomp}
+\usepackage{enumerate}
+\usepackage{multicol}
+
+\usepackage{fullpage}
+
+
+\setlength{\parindent}{0in}
+\setlength{\parskip}{3mm}
+\newcommand{\nline}{\rule{\linewidth}{0.5pt}}
+
+
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{note}[theorem]{Note}
+\newtheorem{nn}[theorem]{}    
+
+
+
+% document title
+\makeatletter
+\renewcommand{\maketitle}{
+\begin{center}
+\nline\\
+\vspace{2ex}
+{\huge \textsc{\@title}}
+\nline\\
+{\large\textsc{\@author \hfill \@date}}
+\vspace{4ex}
+\end{center}
+}
+\makeatother
+%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\title{MTH 427/527 Homework 1}
+
+\author{Pavel Urysohn}
+
+\date{September 4, 2018}
+
+\maketitle
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% EXERCISE 2.1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{Exercise 2.1}
+
+In order to solve this problem it will be convenient to start with the following fact:
+
+\begin{lemma}
+\label{HELPFUL LEMMA}
+If $(X, \varrho)$ is a metric space then the identity function $f\colon X \to X$, $f(x) = x$ is continuous
+(with respect to the metric $\varrho$). 
+\end{lemma}
+
+
+\begin{proof}
+Here is the argument...
+\end{proof}
+
+Using Lemma \ref{HELPFUL LEMMA} we will prove that the following is true:
+
+\begin{theorem}
+\label{BIG THEOREM}
+Some important statement here...
+\end{theorem}
+
+We will leave here 2 inches of vertical  space for a hand drawn picture that  illustrates the statement of 
+this theorem:
+
+\vskip 2in
+
+\begin{proof}[Proof of Theorem \ref{BIG THEOREM}]
+We argue by induction with respect to $n$. For $n=1$ ...
+\end{proof}
+
+Exercise 2.1 follows immediately from Theorem \ref{BIG THEOREM}. Indeed, assume that... 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% EXERCISE 2.3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\section*{Exercise 2.3}
+
+We will prove this by contradiction. Assume that....
+
+
+
+
+
+\end{document}
