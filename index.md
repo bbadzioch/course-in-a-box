@@ -62,17 +62,17 @@ solving skills.
 
 ## Exams
 
-**Midterm Exam:**  XXXX  
-**Final Exam:**  XXXX  
+| **Midterm Exam**  |  XXXX  |
+| **Final Exam**    |  XXXX  |  
 
 
 
 ## Grading
 
-| **Homework**            | 30% |  
-| **Class participation** | 20% |
-| **Midterm Exam**        | 20% |  
-| **Final Exam**          | 30% |  
+| **Homework**             | 30% |  
+| **Class participation**  | 20% |
+| **Midterm Exam**         | 20% |  
+| **Final Exam**           | 30% |  
 
 
 
