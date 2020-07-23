@@ -3,26 +3,94 @@ layout: index
 published: true
 ---
 
-## Create your own online course (and keep it)
 
-Course in a Box is an open source, online course creation tool. It is designed to minimize the amount of time you need to spend fumbling around with technology, allowing you to focus on bringing together the resources, activities, and lessons that you want to share with the world.
-
-Course materials are written in [Markdown](https://www.markdownguide.org/) and hosted on [Github](https://www.github.com), a popular development platform that allows for collaborative drafting, version control, and easy dissemination of your course.
-
-Using Course in a Box and hosting a course on Github are **completely free**, and we’ve outlined the process for putting together a course [on our blog](https://info.p2pu.org/2019/05/16/creating-an-open-course-with-p2pu/). If you’d like to hire us to help you set things up and/or co-design the course with you, [we can do that](https://www.p2pu.org/en/work-with-us/). 
+# MTH 427/527 Introduction to Topology I
 
 
-Here are some recent courses that have been built with Course in a Box:
+### Class times
 
-- [Learning to (re)use open educational resources](http://www.exploerercourse.org/) by Creative Commons & Open University
-- [Create and sustain effective makerspaces in your community](http://p2pu.github.io/makingandlearning/) by Pittsburgh Children’s Museum
-- [Learning about learning circles](https://p2pu.github.io/facilitate-course/) by P2PU
-
-
-## Reach new audiences
-
-Online courses take a big step forwards in the sharing of knowledge around the world. However, your course is only ever as good as the people it reaches. To help reach new audiences with online courses, P2PU developed learning circles: groups for people who take online courses together, in local libraries or community spaces.
-
-Once you create a course, you can add it to P2PU’s learning circle [course page](http://p2pu.org/en/courses/), a growing database of online courses that people are using to facilitate learning circles around the world. You can also check out our [facilitator page](https://www.p2pu.org/en/facilitate/) to learn how to run your own learning circle.
+**Lectures:**  Mon Wed 2:30PM - 3:50PM online
+**Recitations:** Wed 5:20-6:10 online
 
 
+### Instructor
+
+Bernard Badzioch  
+**E-mail:** `badzioch@buffalo.edu <badzioch@buffalo.edu>`  
+**Office Hours:** TBA
+
+
+### TA
+
+TBA
+
+## Prerequisites
+
+This is an abstract, proof based course. I will assume that you have experience
+with mathematical proofs and you know how to read and write them. All homework
+and exam problems will ask you to prove various statements on your own. The main
+technical prerequisites come from calculus: you should be comfortable with the
+notions of a continuous function (of one and several real variables) and a limit
+of a sequence of real numbers. Prior knowledge of operations on sets (union,
+intersection, difference, product)  will be helpful, but I will review this at
+the beginning of the course.
+
+
+## Textbook
+
+The corse will follow lecture notes posted on this website.
+If you would like to use a published text as a supplement, a popular and good
+textbook is [Topology by J.R. Munkres](https://www.amazon.com/Topology-2nd-Economy-James-Munkres/dp/8120320468/ref=pd_cp_14_1?_encoding=UTF8&pd_rd_i=8120320468&pd_rd_r=4VZWC9KGC5G31YR4T9ZA&pd_rd_w=5hg0t&pd_rd_wg=60htE&psc=1&refRID=4VZWC9KGC5G31YR4T9ZA).
+There are many other good options. You can check with me if you would like to
+use some other book.
+
+
+
+## Homework
+
+Homework problems will be assigned on Wednesdays and will be due on Wednesday
+the following week. Students registered for MTH 527 are required to submit homework solutions
+typeset in LaTeX. Students registered for MTH 427 are encouraged to use LaTeX as
+well: this is the standard tool for preparing mathematical and other technical texts
+and it is good to get acquainted with it.
+
+You can collaborate on homework problems, but you must write solutions entirely on your
+own, not copy them. Do not search for solutions on the web, in textbooks etc. -
+this defeats the purpose of homework which is to let you practice your own problem
+solving skills.
+
+
+## Exams
+
+
+* Midterm Exam:  XXXX
+* Final Exam:  XXXX
+
+
+
+## Grading
+-------
+
+* Homework:    30%
+* Class participation 20%
+* Midterm Exam:   20%
+* Final Exam:  30%
+
+
+
+## Incomplete Grades
+
+See the UB Catalog for the [UB Incomplete Policy](https://catalog.buffalo.edu/policies/explanation.html).
+
+
+## Academic Integrity
+
+See the UB Catalog for the [UB Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html).
+
+
+## Accessibility Resources
+
+
+If you need accommodations due to a physical or learning disability please contact the
+[UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html)
+to make appropriate arrangements.
