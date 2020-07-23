@@ -16,7 +16,7 @@ published: true
 ### Instructor
 
 Bernard Badzioch  
-**E-mail:** [badzioch@buffalo.edu](badzioch@buffalo.edu)  
+**E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
 **Office Hours:** TBA
 
 
@@ -62,14 +62,12 @@ solving skills.
 
 ## Exams
 
-
 * Midterm Exam:  XXXX
 * Final Exam:  XXXX
 
 
 
 ## Grading
--------
 
 * Homework:    30%
 * Class participation 20%
