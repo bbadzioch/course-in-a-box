@@ -15,10 +15,9 @@ published: true
 
 #### Part 1 (pages 3-8)
 
-
 {% include youtube.html id='6yusB-muawU' %}
 
-#### Part 1 (pages 9-15)
+#### Part 2 (pages 9-15)
 
 {% include youtube.html id='o8RkiSMlcuc' %}
 
