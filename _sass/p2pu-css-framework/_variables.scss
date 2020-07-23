@@ -496,7 +496,8 @@ $state-success-text:             #fff;
 $state-success-bg:               $brand-success;
 $state-success-border:           $brand-success;
 
-$state-info-text:                #fff;
+//$state-info-text:                #fff;
+$state-info-text:                $brand-primary;
 $state-info-bg:                  $brand-info;
 $state-info-border:              $brand-info;
 
