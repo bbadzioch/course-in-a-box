@@ -21,7 +21,8 @@ $gray-snow:             #FCFCFC;
 
 $brand-primary:         $gray-darker;
 $brand-success:         #B7D500;
-$brand-info:            #05C6B4;
+//$brand-info:            #05C6B4;
+$brand-info:            darken($gray-lighter, 10%);
 $brand-warning:         #FFBC1A;
 $brand-danger:          #FC7100;
 
