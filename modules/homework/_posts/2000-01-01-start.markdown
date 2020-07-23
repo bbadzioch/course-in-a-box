@@ -6,6 +6,8 @@ title: Homework
 
 Information about current and past homework assignments will be posted here.
 
+{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
+
 **Note.** Students registered for MTH 527 are required to submit homework
 solutions typeset in LaTeX. Students registered for MTH 427 are strongly
 encouraged to use LaTeX for homework.
