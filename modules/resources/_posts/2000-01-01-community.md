@@ -18,34 +18,10 @@ published: true
 
 {% include youtube.html id='6yusB-muawU' %}
 
-<iframe
-width="560"
-height="315"
-src="https://www.youtube-nocookie.com/embed/6yusB-muawU"
-frameborder="0"
-allow="accelerometer;
-autoplay;
-encrypted-media;
-gyroscope;
-picture-in-picture"
-allowfullscreen>
-</iframe>
-
 #### Part 1 (pages 9-15)
-https://www.youtube-nocookie.com/embed/o8RkiSMlcuc
 
-<iframe
-width="560"
-height="315"
-src="https://www.youtube-nocookie.com/embed/o8RkiSMlcuc"
-frameborder="0"
-allow="accelerometer;
-autoplay;
-encrypted-media;
-gyroscope;
-picture-in-picture"
-allowfullscreen>
-</iframe>
+{% include youtube.html id='o8RkiSMlcuc' %}
+
 
 ### Page links
 
