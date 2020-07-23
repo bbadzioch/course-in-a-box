@@ -13,18 +13,24 @@ published: true
 
 ## Videos
 
-**Part 1 (p. 3-8)**
+#### Part 1 (p. 3-8)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6yusB-muawU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Part 1 (p. 9-15)**
+#### Part 1 (p. 9-15)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o8RkiSMlcuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Page links**
+### Page links
 
-Page 9: Functions: 1-1, onto, bijection.
-Page 10: Cardinality, countable sets.
-Page 11: Countable sets examples: natural numbers, integers.
-Page 12: Countable sets examples: rational numbers.
-Page 13: Uncountable sets: interval, real numbers.
+* [Page 3: Sets.](https://www.youtube.com/watch?v=6yusB-muawU&t=0s)
+* [Page 4: Subsets.](https://www.youtube.com/watch?v=6yusB-muawU&t=335s)
+* [Page 5: Union and intersection.](https://www.youtube.com/watch?v=6yusB-muawU&t=756s)
+* [Page 6: Infinite unions and intersections, difference of sets.](https://www.youtube.com/watch?v=6yusB-muawU&t=918s)
+* [Page 7: Properties of set algebra, Cartesian products.](https://www.youtube.com/watch?v=6yusB-muawU&t=1111s)
+* [Page 8: Infinite products.](https://www.youtube.com/watch?v=6yusB-muawU&t=1661s)
+* [Page 9: Functions: 1-1, onto, bijection.](https://www.youtube.com/watch?v=o8RkiSMlcuc&t=0s)
+* [Page 10: Cardinality, countable sets.](https://www.youtube.com/watch?v=o8RkiSMlcuc&t=232s)
+* [Page 11: Countable sets examples: natural numbers, integers.](https://www.youtube.com/watch?v=o8RkiSMlcuc&t=631s)
+* [Page 12: Countable sets examples: rational numbers.](https://www.youtube.com/watch?v=o8RkiSMlcuc&t=908s)
+* [Page 13: Uncountable sets: interval, real numbers.](https://www.youtube.com/watch?v=o8RkiSMlcuc&t=1503s)
