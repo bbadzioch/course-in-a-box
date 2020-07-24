@@ -33,7 +33,15 @@
 
 	<link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico">
 	<script type="text/javascript" src="{{ site.baseurl }}/js/modernizr-2.6.2.min.js"></script>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" ></script>
+  <script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+  }
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 </head>
 <body {% if page.itemtype %}itemscope itemtype="{{ page.itemtype }}"{% endif %}
       class="{{ page.body-class }}">
