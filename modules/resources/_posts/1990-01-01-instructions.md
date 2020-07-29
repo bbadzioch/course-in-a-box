@@ -40,9 +40,9 @@ The intended use of these resources is as follows:
    seems unclear, have a look at the complete lecture notes - you may find the answer there.  
    If your questions persist, ask them during class meetings or on Piazza.
 
-I  tried to prepare the videos in such way, that it should be relatively easy to watch them
-one page of blank notes at a time. So, you if you watch enough to finish a page, then you
-should be able to pick up where you left off at a later time without too much difficulty.
+I tried to prepare the videos in such way, that it should be relatively easy to watch them
+one page of blank notes at a time. So, if you watch enough to finish a page, then you
+should be able to pick up where you left off at a later time without difficulty.
 Materials for each chapter list links to parts of videos where each page of blank
 notes starts.
 
