@@ -16,9 +16,13 @@ The course materials posted here consist of three components:
   assignments. Notes posted on this website are split into chapters, but a pdf file
   with all notes and a LaTex source file are available [here](https://github.com/bbadzioch/topology_lecture_notes).
 
+![Complete notes]({{site.baseurl}}/img/complete_notes.png)
+
 * **Blank lecture notes** are extracts from the complete lecture notes. They contain
   definitions and statements of theorems, and leave a lot of blank spaces which are intended
   to be filled with your own notes.  
+
+![Blank notes]({{site.baseurl}}/img/blank_notes.png)
 
 * **Videos** present material of this course. In each video I annotate blank notes
   with proofs, examples etc. while explaining what I am doing.
