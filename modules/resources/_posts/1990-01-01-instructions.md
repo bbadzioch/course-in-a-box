@@ -17,7 +17,7 @@ The course materials posted here consist of three components:
   with all notes and a LaTex source file are available [here](https://github.com/bbadzioch/topology_lecture_notes).
 
 {:refdef: style="text-align: center;"}
-![Complete notes]({{site.baseurl}}/img/complete_notes.png){:width="150px"}
+![Complete notes]({{site.baseurl}}/img/complete_notes.png){:width="200px"}
 {: refdef}
 
 
@@ -25,8 +25,8 @@ The course materials posted here consist of three components:
   definitions and statements of theorems, and leave a lot of blank spaces which are intended
   to be filled with your own notes.  
 
-{:refdef: style="text-align: center;" width=150px;}
-![Blank notes]({{site.baseurl}}/img/blank_notes.png)
+{:refdef: style="text-align: center;"}
+![Blank notes]({{site.baseurl}}/img/blank_notes.png){:width="200px"}
 {: refdef}
 
 * **Videos** present material of this course. In each video I annotate blank notes
