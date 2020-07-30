@@ -7,15 +7,12 @@ title: Homework
 Information about current and past homework assignments will be posted here.
 
 {% include note.html content='
-<ul>
-<li> Students registered for MTH 527 are required to submit homework
-solutions typeset in LaTeX.</li>
-<li> Students registered for MTH 427 are strongly
-encouraged to use LaTeX for homework.</li>
-</ul>
+Students registered for MTH 527 are required to submit homework
+solutions typeset in LaTeX. Students registered for MTH 427 are strongly
+encouraged to use LaTeX for homework.
 <br/>
 Below is a link to a LaTeX template that you can use for typesetting homework assignments.
 <br/>
 <a href="/assets/homework_template.zip" markdown="0" style="font-family: Courier, monospace; font-weight:bold;">
-<i markdown="0" class="fa fa-download fa-lg"></i> latex_template.zip</a>
+<i markdown="0" class="fa fa-download fa-lg"></i> homework_template.zip</a>
 ' %}
