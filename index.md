@@ -38,7 +38,7 @@ the beginning of the course.
 
 ## Textbook
 
-The corse will follow lecture notes posted on this website.
+The course will follow lecture notes posted on this website.
 If you would like to use a published text as a supplement, a popular and good
 textbook is [Topology by J.R. Munkres](https://www.amazon.com/Topology-2nd-Economy-James-Munkres/dp/8120320468/ref=pd_cp_14_1?_encoding=UTF8&pd_rd_i=8120320468&pd_rd_r=4VZWC9KGC5G31YR4T9ZA&pd_rd_w=5hg0t&pd_rd_wg=60htE&psc=1&refRID=4VZWC9KGC5G31YR4T9ZA).
 There are many other good options. You can check with me if you would like to
@@ -74,7 +74,7 @@ for being present and on time during class meetings. You can miss one
 class meeting without a justified reason. Each subsequent unexcused absence
 will lower your participation credit by 2%.
 
-**Weekly question.** As a part of each homework you will be asked
+**Weekly questions.** As a part of each homework you will be asked
 to submit a question or comment related to the material covered during the
 preceding week. You can receive up to 10% credit for submitting these questions
 and discussing them in class. You can miss one such assignment without loosing
