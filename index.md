@@ -44,6 +44,11 @@ textbook is [Topology by J.R. Munkres](https://www.amazon.com/Topology-2nd-Econo
 There are many other good options. You can check with me if you would like to
 use some other book.
 
+## Grading
+
+| **Homework**                   | 40% |  
+| **Class participation** &nbsp; | 20% |
+| **Final Exam**                 | 40% |  
 
 
 ## Homework
@@ -67,12 +72,26 @@ There will be no midterm exams.
 | **Final Exam**           |  XXXX  |  
 
 
+## Class participation
 
-## Grading
+Class participation credit will be based on two components.
 
-| **Homework**                   | 40% |  
-| **Class participation** &nbsp; | 20% |
-| **Final Exam**                 | 40% |  
+**Class attendance.** You can earn up to 10% of the total course credit
+for being present and on time during class meetings. You can miss one
+class meeting without a justified reason. Each subsequent unexcused absence
+will lower your participation credit by 2%.
+
+**Weekly question.** As a part of each homework you will be asked
+to submit a question or comment related to the material covered during the
+preceding week. You can receive up to 10% credit for submitting these questions
+and discussing them in class. You can miss one such assignment without loosing
+any credit, but you will loose 2% for each subsequent missing assignment.
+You will also loose credit if you submit a questionor comment, but then you are
+not present during a class meeting to talk about it if called upon.    
+
+I can award extra credit to students who are especially active in the course.
+I may also offer some extra credit opportunities for giving short presentations
+on some topic etc. 
 
 
 
