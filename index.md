@@ -65,13 +65,6 @@ this defeats the purpose of homework which is to let you practice your own probl
 solving skills.
 
 
-## Exams
-
-There will be no midterm exams.
-
-| **Final Exam**           |  XXXX  |  
-
-
 ## Class participation
 
 Class participation credit will be based on two components.
@@ -91,8 +84,14 @@ not present during a class meeting to talk about it if called upon.
 
 I can award extra credit to students who are especially active in the course.
 I may also offer some extra credit opportunities for giving short presentations
-on some topic etc. 
+on some topic etc.
 
+
+## Exams
+
+There will be no midterm exams.
+
+| **Final Exam**           |  XXXX  |  
 
 
 ## Incomplete Grades
