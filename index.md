@@ -78,8 +78,8 @@ will lower your participation credit by 2%.
 to submit a question or comment related to the material covered during the
 preceding week. You can receive up to 10% credit for submitting these questions
 and discussing them in class. You can miss one such assignment without loosing
-any credit, but you will loose 2% for each subsequent missing assignment.
-You will also loose credit if you submit a questionor comment, but then you are
+any credit, but you will loose 2% for each subsequent missed assignment.
+You will also loose credit if you submit a question, but then you are
 not present during a class meeting to talk about it if called upon.    
 
 I can award extra credit to students who are especially active in the course.
