@@ -82,7 +82,7 @@ any credit, but you will loose 2% for each subsequent missed assignment.
 You will also loose credit if you submit a question, but then you are
 not present during a class meeting to talk about it if called upon.    
 
-I can award extra credit to students who are especially active in the course.
+I may award extra credit to students who are especially active in the course.
 I may also offer some extra credit opportunities for giving short presentations
 on some topic etc.
 
