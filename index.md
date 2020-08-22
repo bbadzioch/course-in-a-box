@@ -18,7 +18,7 @@ server, email me at [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=M
 
 The class will be divided in two groups, and each group will attend only
 one weekly meeting. This is meant to partially offset the time that you will
-need to spend on watching videos with lectures, and also to assure that the
+need to spend on watching videos with lectures, and also to assure that our
 live meetings are small enough that everyone has a chance to talk during them.
 
 
