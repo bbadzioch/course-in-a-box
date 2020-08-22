@@ -90,7 +90,7 @@ class meeting without a justified reason. Each subsequent unexcused absence
 will lower your participation credit by 2%.
 
 **Weekly digest.** As a part of each homework you will be asked to submit
-a short (2-3 few sentences) writeup on your study from the previous week.
+a short (2-3 sentences) writeup on your study from the previous week.
 You can write for example about
 
 * what you have found interesting (or boring)
@@ -112,9 +112,8 @@ on some topic etc.
 
 ## Exams
 
-There will be no midterm exams.
-
-| **Final Exam**           |  XXXX  |  
+There will be no midterm exams. There will be an oral final exam, its schedule
+will be determined later.   
 
 
 ## Incomplete Grades
