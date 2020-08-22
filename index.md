@@ -6,6 +6,9 @@ published: true
 
 # Course Information
 
+Lectures, recitations and office hours will be conducted on the course
+Discord server. If you have not received a link with invitation to the
+server, email me at [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527).  
 
 ### Class times
 
