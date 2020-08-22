@@ -9,21 +9,27 @@ published: true
 
 ### Class times
 
-**Lectures (online):**  
+**Lectures (Discord):**  
 * Mon 2:30PM - 3:50PM
 * Wed 2:30PM - 3:50PM   
 
+The class will be divided in two groups, and each group will attend only
+one weekly meeting. This is meant to partially offset the time that you will
+need to spend on watching videos with lectures, and also to assure that the
+live meetings are small enough that everyone has a chance to talk during them.
 
 
+**Recitations (Discord):**
+* Wed 5:20-6:10 online
 
-**Recitations (online):** Wed 5:20-6:10 online
-
+Recitations are meant primarily for students taking MTH 427, but anyone can
+participate if interested.   
 
 ### Instructor
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** TBA
+**Office Hours (Discord):** TBA
 
 
 ### TA
@@ -80,13 +86,21 @@ for being present and on time during class meetings. You can miss one
 class meeting without a justified reason. Each subsequent unexcused absence
 will lower your participation credit by 2%.
 
-**Weekly questions.** As a part of each homework you will be asked
-to submit a question or comment related to the material covered during the
-preceding week. You can receive up to 10% credit for submitting these questions
-and discussing them in class. You can miss one such assignment without loosing
-any credit, but you will loose 2% for each subsequent missed assignment.
-You will also loose credit if you submit a question, but then you are not present
-during a class meeting to talk about it if called upon.    
+**Weekly digest.** As a part of each homework you will be asked to submit
+a short (2-3 few sentences) writeup on your study from the previous week.
+You can write for example about
+
+* what you have found interesting (or boring)
+* what you have found difficult (or easy)
+* how do you feel about the course
+* anything else you want to share.
+
+You will be also asked to submit any questions that you have and that
+you would like to see discussed during a class meeting.  
+
+You can receive up to 10% credit for submitting these digests. You can miss one
+such assignment without loosing any credit, but your weekly digest credit will be
+lowered by 2% for each subsequent missed assignment.   
 
 I may award extra credit to students who are especially active in the course.
 I may also offer some extra credit opportunities for giving short presentations
@@ -111,7 +125,6 @@ See the UB Catalog for the [UB Academic Integrity Policy](https://catalog.buffal
 
 
 ## Accessibility Resources
-
 
 If you need accommodations due to a physical or learning disability please contact the
 [UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html)
