@@ -9,8 +9,14 @@ published: true
 
 ### Class times
 
-**Lectures:**  Mon Wed 2:30PM - 3:50PM online  
-**Recitations:** Wed 5:20-6:10 online
+**Lectures (online):**  
+* Mon 2:30PM - 3:50PM
+* Wed 2:30PM - 3:50PM   
+
+
+
+
+**Recitations (online):** Wed 5:20-6:10 online
 
 
 ### Instructor
