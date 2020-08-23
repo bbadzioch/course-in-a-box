@@ -23,8 +23,27 @@ live meetings are small enough that everyone has a chance to talk during them.
 
 Group assignments are as follows:
 
+<table>
+<tr>
+<th>
+one
+</th>
+<th>
+two
+</th>
+</tr>
+<tr>
+<tr>
+1
+</tr>
+<tr>
+2
+</tr>
+</tr>
+</table>
 
-| Left-aligned | Center-aligned | Right-aligned |
+
+| Left-aligned &nbsp;| Center-aligned &nbsp;| Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
