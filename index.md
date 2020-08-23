@@ -44,10 +44,10 @@ two
 
 
 | Last 3 digits of UB Person Number &nbsp;| Group Assignment|
-| :---         |     :---:      |
-| git status   | git status     |
-| git diff     | git diff       |
+| :---         |     :---      |
 | 002 | Mon |
+| 116                               | Wed              |
+
 
 
 | Last 3 digits of UB Person Number &nbsp; &nbsp; | Group Assignment|
