@@ -28,30 +28,6 @@ Group assignments are as follows:
 | Last 3 digits of UB Person Number &nbsp; &nbsp; &nbsp; | Group Assignment|
 | ---: | :---       |
 | 002  | Monday     |
-| 116  | Wednesday  |
-| 126  | Wednesday  |
-| 130  | Monday     |
-| 147  | Monday     |
-| 208  | Monday     |
-| 387  | Monday     |
-| 454  | Wednesday  |
-| 532  | Wednesday  |
-| 534  | Monday     |
-| 547  | Monday     |
-| 550  | Wednesday  |
-| 582  | Monday     |
-| 584  | Monday     |
-| 591  | Monday     |
-| 638  | Wednesday  |
-| 713  | Wednesday  |
-| 776  | Wednesday  |
-| 785  | Wednesday  |
-| 786  | Wednesday  |
-| 831  | Monday     |
-| 865  | Wednesday  |
-| 866  | Wednesday  |
-| 877  | Monday     |
-| 982  | Wednesday  |
 
 
 
