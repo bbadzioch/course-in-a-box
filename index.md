@@ -12,8 +12,8 @@ server, email me at [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=M
 
 ## Lectures
 
-* Mon 2:30PM - 3:50PM
-* Wed 2:30PM - 3:50PM   
+* Mon 2:30 PM - 3:50 PM
+* Wed 2:30 PM - 3:50 PM   
 
 The class will be divided in two groups, and each group will attend only
 one weekly meeting. This is meant to partially offset the time that you will
@@ -26,7 +26,7 @@ Current group assignments are posted [here](/assets/group_assignments.pdf).
 
 ## Recitations
 
-* Wed 5:20-6:10 online
+* Wed 5:20 PM-6:10 PM on Discord
 
 Recitations are meant primarily for students taking MTH 427, but anyone can
 participate if interested.   
@@ -35,7 +35,7 @@ participate if interested.
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
-**Office Hours (Discord):** TBA
+**Office Hours:** Mon, Wed 3:50 PM - 5:00 PM on Discord
 
 
 ## TA
@@ -116,8 +116,10 @@ on some topic etc.
 
 ## Exams
 
-There will be no midterm exams. There will be an oral final exam, its schedule
-will be determined later.   
+There will be no midterm exams. If we will find a reasonable way to
+give a written final, the final exam will be given on Monday, December 14 at
+3:30 PM - 6:30 PM. Otherwise there will be an oral final exam, and its schedule
+will be determined later.
 
 
 ## Incomplete Grades
