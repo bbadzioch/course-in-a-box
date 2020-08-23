@@ -32,8 +32,8 @@ Group assignments are as follows:
 
 
 
-| Last 3 digits of UB Person Number &nbsp; &nbsp; &nbsp; | Group Assignment|
-| --------------------------------:|:---------------|
+| Last 3 digits of UB Person Number &nbsp; &nbsp; &nbsp; | Group Assignment |
+| --------------------------------: | :--------------- |
 | 002 | Mon |
 | 116                               | Wed              |
 | 126                               | Wed              |
