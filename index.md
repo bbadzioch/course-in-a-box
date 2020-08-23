@@ -27,8 +27,31 @@ Group assignments are as follows:
 
 | Last 3 digits of UB Person Number &nbsp; &nbsp; &nbsp; | Group Assignment|
 | ---:  | :---      |
-| 002  &nbsp; &nbsp; &nbsp; | Monday    |
-| 116  &nbsp; &nbsp; &nbsp; | Wednesday |
+| 002  &nbsp; &nbsp; &nbsp; | Monday     |
+| 116  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 126  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 130  &nbsp; &nbsp; &nbsp; | Monday     |
+| 147  &nbsp; &nbsp; &nbsp; | Monday     |
+| 208  &nbsp; &nbsp; &nbsp; | Monday     |
+| 387  &nbsp; &nbsp; &nbsp; | Monday     |
+| 454  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 532  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 534  &nbsp; &nbsp; &nbsp; | Monday     |
+| 547  &nbsp; &nbsp; &nbsp; | Monday     |
+| 550  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 582  &nbsp; &nbsp; &nbsp; | Monday     |
+| 584  &nbsp; &nbsp; &nbsp; | Monday     |
+| 591  &nbsp; &nbsp; &nbsp; | Monday     |
+| 638  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 713  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 776  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 785  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 786  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 831  &nbsp; &nbsp; &nbsp; | Monday     |
+| 865  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 866  &nbsp; &nbsp; &nbsp; | Wednesday  |
+| 877  &nbsp; &nbsp; &nbsp; | Monday     |
+| 982  &nbsp; &nbsp; &nbsp; | Wednesday  |
 
 
 
