@@ -24,7 +24,10 @@ live meetings are small enough that everyone has a chance to talk during them.
 Group assignments are as follows:
 
 
-
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 | Last 3 digits of UB Person Number &nbsp; &nbsp; | Group Assignment|
 | --------------------------------:|:---------------|
