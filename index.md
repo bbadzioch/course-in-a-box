@@ -91,21 +91,21 @@ Class participation credit will be based on two components.
 **Class attendance.** You can earn up to 10% of the total course credit
 for being present and on time during class meetings. You can miss one
 class meeting without a justified reason. Each subsequent unexcused absence
-will lower your participation credit by 2%.
+will lower your participation credit by 2% (i.e. from 10% to 8% etc.).
 
 **Weekly digest.** As a part of each homework you will be asked to submit
 a short (2-3 sentences) writeup on your study from the previous week.
-You can write for example about
+For example, you can write:
 
-* what you have found interesting (or boring)
-* what you have found difficult (or easy)
+* what topics you have found interesting (or boring)
+* what topics you have found difficult (or easy)
 * how do you feel about the course
 * anything else you want to share.
 
-You will be also asked to submit any questions that you have and that
-you would like to see discussed during a class meeting.  
+You will be also asked to submit course-related questions that you would like
+to see discussed during a class meeting.  
 
-You can receive up to 10% credit for submitting these digests. You can miss one
+You can receive up to 10% credit for these writeup. You can miss one
 such assignment without loosing any credit, but your weekly digest credit will be
 lowered by 2% for each subsequent missed assignment.   
 
@@ -116,10 +116,10 @@ on some topic etc.
 
 ## Exams
 
-There will be no midterm exams. If we will find a reasonable way to
-have a written final, the final exam will be given on Monday, December 14 at
-3:30 PM - 6:30 PM. Otherwise there will be an oral final exam, and its schedule
-will be determined later.
+There will be no midterm exams. If we find a reasonable way to have a written final,
+the final exam will be given on Monday, December 14 at 3:30 PM - 6:30 PM. Otherwise
+there will be an oral final exam, and its schedule will be determined later. I will
+let you know which option we will use by the end of September.
 
 
 ## Incomplete Grades
