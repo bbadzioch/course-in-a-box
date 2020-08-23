@@ -10,7 +10,7 @@ title: Homework template
 Students registered for MTH 527 are required to submit homework
 solutions typeset in LaTeX. Students registered for MTH 427 are strongly
 encouraged to use LaTeX for homework.
-<br/>
+<br/><br/>
 Below is a link to a LaTeX template that you can use for typesetting homework assignments.
 <br/>
 <a href="/assets/homework_template.zip" markdown="0" style="font-family: Courier, monospace; font-weight:bold;">
