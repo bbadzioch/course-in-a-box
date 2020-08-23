@@ -1,10 +1,10 @@
 ---
-title: Homework
+title: Homework template
 ---
 
-# Homework
+# Homework template
 
-Information about current and past homework assignments will be posted here.
+
 
 {% include note.html content='
 Students registered for MTH 527 are required to submit homework
