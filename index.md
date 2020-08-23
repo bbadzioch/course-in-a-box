@@ -10,22 +10,22 @@ Lectures, recitations and office hours will be conducted on the course
 Discord server. If you have not received an access link to the
 server, email me at [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527).  
 
-### Class times
+# Lectures
 
-**Lectures (Discord):**  
 * Mon 2:30PM - 3:50PM
 * Wed 2:30PM - 3:50PM   
 
 The class will be divided in two groups, and each group will attend only
 one weekly meeting. This is meant to partially offset the time that you will
 need to spend on watching videos with lectures, and also to assure that our
-live meetings are small enough that everyone has a chance to talk during them.
+live meetings are small enough so that everyone has a chance to talk during them.
 
 Current group assignments are posted [here](/assets/group_assignments.pdf).
 
 
 
-**Recitations (Discord):**
+# Recitations
+
 * Wed 5:20-6:10 online
 
 Recitations are meant primarily for students taking MTH 427, but anyone can
