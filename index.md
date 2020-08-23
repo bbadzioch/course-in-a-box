@@ -43,7 +43,7 @@ two
 </table>
 
 
-| Left-aligned &nbsp;| Center-aligned &nbsp;|
+| Last 3 digits of UB Person Number &nbsp;| Group Assignment|
 | :---         |     :---:      |
 | git status   | git status     |
 | git diff     | git diff       |
