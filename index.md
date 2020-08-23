@@ -26,9 +26,9 @@ Group assignments are as follows:
 
 
 | Last 3 digits of UB Person Number &nbsp; &nbsp; &nbsp; | Group Assignment|
-| :---  | :---      |
-| 002   | Monday    |
-| 116   | Wednesday |
+| ---:  | :---      |
+| 002  &nbsp; &nbsp; | Monday    |
+| 116  &nbsp; &nbsp; | Wednesday |
 
 
 
