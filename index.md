@@ -21,6 +21,37 @@ one weekly meeting. This is meant to partially offset the time that you will
 need to spend on watching videos with lectures, and also to assure that our
 live meetings are small enough that everyone has a chance to talk during them.
 
+Group assignments are as follows:
+
+| Last 3 digits of UB Person Number | Group Assignment |
+| --------------------------------: | :--------------- |
+| 002                               | Mon              |
+| 116                               | Wed              |
+| 126                               | Wed              |
+| 130                               | Mon              |
+| 147                               | Mon              |
+| 208                               | Mon              |
+| 387                               | Mon              |
+| 454                               | Wed              |
+| 532                               | Wed              |
+| 534                               | Mon              |
+| 547                               | Mon              |
+| 550                               | Wed              |
+| 582                               | Mon              |
+| 584                               | Mon              |
+| 591                               | Mon              |
+| 638                               | Wed              |
+| 713                               | Wed              |
+| 776                               | Wed              |
+| 785                               | Wed              |
+| 786                               | Wed              |
+| 831                               | Mon              |
+| 865                               | Wed              |
+| 866                               | Wed              |
+| 877                               | Mon              |
+| 982                               | Wed              |
+
+
 
 **Recitations (Discord):**
 * Wed 5:20-6:10 online
