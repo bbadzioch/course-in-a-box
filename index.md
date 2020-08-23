@@ -33,12 +33,12 @@ two
 </th>
 </tr>
 <tr>
-<tr>
+<td>
 1
-</tr>
-<tr>
+</td>
+<td>
 2
-</tr>
+</td>
 </tr>
 </table>
 
@@ -50,7 +50,7 @@ two
 
 | Last 3 digits of UB Person Number &nbsp; &nbsp; | Group Assignment|
 | --------------------------------:|:---------------|
-| 002  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                            | Mon              |
+| 002 | Mon |
 | 116                               | Wed              |
 | 126                               | Wed              |
 | 130                               | Mon              |
