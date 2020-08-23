@@ -23,8 +23,11 @@ live meetings are small enough that everyone has a chance to talk during them.
 
 Group assignments are as follows:
 
-| Last 3 digits of UB Person Number &nbsp; &nbsp; | Group Assignment |
-| --------------------------------: | :--------------- |
+
+
+
+| Last 3 digits of UB Person Number &nbsp; &nbsp; | Group Assignment|
+|--------------------------------:|:---------------|
 | 002  &nbsp; &nbsp; &nbsp; &nbsp;                             | Mon              |
 | 116                               | Wed              |
 | 126                               | Wed              |
