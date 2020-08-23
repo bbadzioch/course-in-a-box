@@ -10,7 +10,7 @@ Lectures, recitations and office hours will be conducted on the course
 Discord server. If you have not received an access link to the
 server, email me at [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527).  
 
-# Lectures
+## Lectures
 
 * Mon 2:30PM - 3:50PM
 * Wed 2:30PM - 3:50PM   
@@ -24,21 +24,21 @@ Current group assignments are posted [here](/assets/group_assignments.pdf).
 
 
 
-# Recitations
+## Recitations
 
 * Wed 5:20-6:10 online
 
 Recitations are meant primarily for students taking MTH 427, but anyone can
 participate if interested.   
 
-### Instructor
+## Instructor
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
 **Office Hours (Discord):** TBA
 
 
-### TA
+## TA
 
 TBA
 
