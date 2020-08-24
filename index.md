@@ -14,8 +14,8 @@ server, email me at [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=M
 
 ## Lectures
 
-* Mon 2:30 PM - 3:50 PM
-* Wed 2:30 PM - 3:50 PM   
+* Mon 2:30 PM - 3:50 PM on Discord
+* Wed 2:30 PM - 3:50 PM on Discord 
 
 The class will be divided in two groups, and each group will attend only
 one weekly meeting. This is meant to partially offset the time that you will
