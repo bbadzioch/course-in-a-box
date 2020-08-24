@@ -38,7 +38,8 @@ The intended use of these resources is as follows:
 
 2. In the videos I may occasionally omit some example or details of a proof, so if something
    seems unclear, have a look at the complete lecture notes - you may find the answer there.  
-   If your questions persist, ask them during class meetings or on Piazza.
+   If your questions persist, ask them in your Weekly Digest, during a class meeting or on
+   Discord.
 
 I tried to prepare the videos in such way, that it should be relatively easy to watch them
 one page of blank notes at a time. So, if you watch enough to finish a page, then you
@@ -48,4 +49,4 @@ notes starts.
 
 If you don't like watching videos, you can just read the complete lecture notes. They cover all
 material and they are self-contained. If you choose this route, you should still keep notes as you
-read. Mathematics is learned by doing rather than passively reading or watching.
+read. Passive reading or watching is not a good way to learn mathematics.
