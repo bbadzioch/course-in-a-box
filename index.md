@@ -44,8 +44,10 @@ Bernard Badzioch
 
 Bratati Som
 **E-mail:** [bratatis@buffalo.edu](mailto:bratatis@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** Thu 12:00 - 2:00 PM on Zoom. Link to Bratati's Zoom office hours
-is posted on the course-announcements channel on Discord. 
+**Office Hours:** Thu 12:00 - 2:00 PM on Zoom.
+
+Link to Bratati's Zoom office hours is posted on the course-announcements channel
+on Discord. 
 
 ## Prerequisites
 
