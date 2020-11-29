@@ -4,9 +4,9 @@ title: Final exam information
 
 # Final exam information
 
-The final exam will be given on Monday, December 14 at 3:45 - 7:30 PM
-The exam will be proctoted via Zoom following procedures described 
-[here](https://exams.ubmath.info). 
+The final exam will be given on **Monday, December 14 at 3:45 - 7:30 PM**.
+The exam will be proctoted via Zoom following procedures described here:
+[exams.ubmath.info](https://exams.ubmath.info). 
 
 {::nomarkdown}
 <div markdown="span" class="alert alert-info" role="alert">
@@ -21,7 +21,7 @@ The exam will be proctoted via Zoom following procedures described
 <li> Your exam PIN. You received the PIN in an email from prof. John Ringland (ringland@buffalo.edu) 
   which was sent on September 10. If you cannot find the email with the PIN please let 
   me (B. Badzioch) know as soon as possible. </li>
-<li> Your UB student ID or a government issues photo ID. You will be asked to show it at the beginning of 
+<li> Your UB student ID or a government issued photo ID. You will be asked to show it at the beginning of 
 the exam.</li>
 <li> Pen and paper.</li>
 </ol>
