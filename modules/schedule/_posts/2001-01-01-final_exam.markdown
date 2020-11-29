@@ -17,7 +17,7 @@ The exam will be proctoted via Zoom following procedures described
   camera in this device. You will also need to install a scanning app (e.g. Microsoft 
   Office Lens) to scan your exam solutions in order to upload them to Gradescope. </li>
 <li> Your exam PIN. You received the PIN in an email from prof. John Ringland (ringland@buffalo.edu) 
-  which was sent on September 10. If you can\'t find the email with the PIN please let 
+  which was sent on September 10. If you cannot find the email with the PIN please let 
   me (B. Badzioch) know as soon as possible. </li>
 <li> Your UB student ID or a government issues photo ID. You will be asked to show it at the beginning of 
 the exam.</li>
