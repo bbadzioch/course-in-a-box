@@ -8,7 +8,7 @@ The final exam will be given on Monday, December 14 at 3:45 - 7:30 PM
 The exam will be proctoted via Zoom following procedures described 
 [here](https://exams.ubmath.info). 
 
-{% include note.html content='
+{% include note.html content="
 <b>In order to take the exam you will need:</b>
 
 <ul>
@@ -23,5 +23,5 @@ The exam will be proctoted via Zoom following procedures described
 the exam.</li>
 <li>Pen and paper.</li>
 </ul>
-' %}
+" %}
 
