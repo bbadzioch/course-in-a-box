@@ -36,7 +36,7 @@ the exam.</li>
 
 ### Lecture Notes
 
-During the exam I will provide you with a copy of combined lecture notes for this course 
+During the exam I will provide a copy of combined lecture notes for this course 
 that you will be able to access on your computer. The notes will have colored background to make them 
 more recognizable on your computer screen for proctoring purposes. Their content will not be changed in any way.
 
