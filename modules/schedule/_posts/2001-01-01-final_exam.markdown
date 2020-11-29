@@ -46,7 +46,7 @@ more recognizable on your computer screen for proctoring purposes. Their content
 In case of irregularities in the written exam a student may be asked to take 
 an additional oral exam which will either supplement or replace the score from the written exam. The oral 
 exam will be administered at the discretion of the course instructor. This does not waive the rules of 
-the UB Academic Integrity Policy - any documented instances of cheating will result in a failing grade 
+the UB Academic Integrity Policy - any observed instances of cheating will result in a failing grade 
 on the exam or other sanctions (failure of the course etc.).
 
 
