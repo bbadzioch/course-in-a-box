@@ -12,7 +12,7 @@ The exam will be proctoted via Zoom following procedures described
 <i class="fa fa-info-circle"></i> <b>Note.</b> 
 <b>In order to take the exam you will need:</b>
 
-<ul>
+<ol>
 <li> A computer with an internet connection for accessing exam problems. </li>
 <li> A phone or a tablet with a camera and a Zoom app installed. The exam will be proctored using the 
   camera in this device. You will also need to install a scanning app (e.g. Microsoft 
@@ -23,6 +23,6 @@ The exam will be proctoted via Zoom following procedures described
 <li> Your UB student ID or a government issues photo ID. You will be asked to show it at the beginning of 
 the exam.</li>
 <li> Pen and paper.</li>
-</ul>
+</ol>
 </div>
 
