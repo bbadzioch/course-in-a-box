@@ -24,6 +24,31 @@ The exam will be proctoted via Zoom following procedures described here:
 <li> Your UB student ID or a government issued photo ID. You will be asked to show it at the beginning of 
 the exam.</li>
 <li> Pen and paper.</li>
+<li> Desk or table clear of any items, besides those listed above.</li>
+
 </ol>
 </div>
 {:/}
+
+### Practice final
+
+[Here](/assets/practice_final.pdf) is a practice exam. The actual final exam will follow a similar format. 
+
+### Lecture Notes
+
+During the exam I will provide you with a copy of combined lecture notes for this course 
+that you will be able to access on your computer. The notes will have colored background to make them 
+easier recognizable on your computer screen for proctoring purposes. Their content will not be changed in any way.
+
+
+### Exceptional situations
+
+In case of irregularities in the written exam a student may be asked to take 
+an additional oral exam which will either supplement or replace the score from the written exam. The oral 
+exam will be administered at the discretion of the course instructor. This does not waive the rules of 
+the UB Academic Integrity Policy - any documented instances of cheating will result in a failing grade 
+on the exam or other sanctions (failure of the course etc.).
+
+
+
+
