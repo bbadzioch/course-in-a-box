@@ -4,7 +4,7 @@ title: Final exam information
 
 # Final exam information
 
-The final exam will be given on **Monday, December 14 at 3:45 PM - 7:30 PM**.
+The final exam will be given on **Tuesday, December 15 at 3:45 PM - 7:30 PM**.
 The exam will be proctored via Zoom following procedures described here:
 [exams.ubmath.info](https://exams.ubmath.info). 
 

@@ -47,7 +47,7 @@ Bratati Som
 **Office Hours:** Thu 12:00 - 2:00 PM on Zoom.
 
 Link to Bratati's Zoom office hours is posted on the course-announcements channel
-on Discord. 
+on Discord.
 
 ## Prerequisites
 
@@ -125,7 +125,7 @@ on some topic etc.
 ## Exams
 
 There will be no midterm exams. If we find a reasonable way to have a written final,
-the final exam will be given on Monday, December 14 at 3:30 PM - 6:30 PM. Otherwise
+the final exam will be given on Tuesday, December 15 at 3:30 PM - 6:30 PM. Otherwise
 there will be an oral final exam, and its schedule will be determined later. I will
 let you know which option we will use by the end of September.
 
