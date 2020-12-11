@@ -124,8 +124,8 @@ on some topic etc.
 
 ## Exams
 
-The [final exam](({% post_url /modules/schedule/_posts/2001-01-01-final_exam %}))
-will be given on Tuesday, December 15 at 3:45 PM - 7:30 PM. 
+The [final exam]({% post_url /modules/schedule/_posts/2001-01-01-final_exam %})
+will be given on Tuesday, December 15 at 3:45 PM - 7:30 PM.
 
 
 ## Incomplete Grades
